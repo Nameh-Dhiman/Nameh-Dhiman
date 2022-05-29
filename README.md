@@ -22,7 +22,7 @@
 <!-- | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nameh-dhiman&show_icons=true&theme=dark&title_color=ffffff&text_color=5274ff&cache_seconds=1800&locale=en" alt="nameh-dhiman" /></p> | <p>&nbsp;<a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameh-Dhiman&layout=compact&theme=dark" /></a></p> |
 | -- | --- |
  -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nameh-dhiman&show_icons=true&theme=dark&title_color=ffffff&text_color=5274ff&cache_seconds=1800&locale=en" alt="nameh-dhiman" />  &nbsp; &nbsp; &nbsp; &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameh-Dhiman&layout=compact&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nameh-dhiman&show_icons=true&theme=dark&title_color=ffffff&text_color=5274ff&cache_seconds=1800&locale=en" alt="nameh-dhiman" />  &nbsp; &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameh-Dhiman&layout=compact&theme=dark" /></p>
 
  
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nameh-dhiman&theme=dark" alt="nameh-dhiman" /></p>
