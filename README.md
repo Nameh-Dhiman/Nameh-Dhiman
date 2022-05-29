@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development(MERN)**
 
-- 💬 Ask me about **HTML, CSS, SASS, JS, React JS, Redux JS, Node JS, Mongo DB, SQL**
+- 💬 Ask me about **HTML, CSS, SASS, JavaScrit, React JS, Redux JS, Node JS, Mongo DB, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
