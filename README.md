@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nameh Dhiman</h1>
 <h3 align="center">A Full Stack Web Developer based in Himachal Pradesh, India.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nameh-dhiman&label=Profile%20views&color=0e75b6&style=flat" alt="nameh-dhiman" /> <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/Nameh-Dhiman/custom-icon-badges?logo=history&logoColor=white" alt="nameh-dhiman" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nameh-dhiman&label=Profile%20views&color=0e75b6&style=flat" alt="nameh-dhiman" /></p>
 
 - 🌱 I’m currently learning **Full Stack Web Development(MERN)**
 
