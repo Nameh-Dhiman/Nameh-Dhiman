@@ -12,6 +12,8 @@ I have also worked as a freelancer on several live projects.</p>
 
 - 📫 How to reach me *namehdhiman@gmail.com*
 
+- 👨‍💻 All of my projects are available at *https://my-portfolio-namehdhiman.vercel.app/*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/namehdhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namehdhiman" height="30" width="40" /></a>
