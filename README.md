@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nameh Dhiman</h1>
 <h3 align="center">A Full Stack Web Developer based in Himachal Pradesh, India.</h3>
+<p align="center">I am a passionate Full Stack Web Developer with a considerable amount of Technical skills and possess self-discipline and the ability to work in highly collaborative work environments. 
+I have led teams of 5-20 people across different areas of responsibility.
+I have also worked as a freelancer on several live projects.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nameh-dhiman&label=Profile%20views&color=0e75b6&style=flat" alt="nameh-dhiman" /></p>
+<p align="justify"> <img src="https://komarev.com/ghpvc/?username=nameh-dhiman&label=Profile%20views&color=0e75b6&style=flat" alt="nameh-dhiman" /></p>
 
 - 🌱 I’m currently learning **Full Stack Web Development(MERN)**
 
