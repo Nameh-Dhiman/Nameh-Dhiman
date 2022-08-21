@@ -12,7 +12,7 @@ I have also worked as a freelancer on several live projects.</p>
 
 - 📫 How to reach me *namehdhiman@gmail.com*
 
-- 👨‍💻 All of my projects are available at *https://my-portfolio-namehdhiman.vercel.app/*
+- 👨‍💻 All of my projects are available at *[Portfolio](https://my-portfolio-namehdhiman.vercel.app/)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
