@@ -8,7 +8,7 @@ I have also worked as a freelancer on several live projects.</p>
 
 - 🌱 I’m currently learning **Full Stack Web Development(MERN)**
 
-- 💬 Ask me about **HTML, CSS, SASS, JavaScript, React JS, Redux JS, Node JS, Mongo DB, SQL**
+- 💬 Ask me about **HTML, CSS, SASS, JavaScript, React JS, Redux JS, Angular, Node JS, Mongo DB, SQL**
 
 - 📫 How to reach me *namehdhiman@gmail.com*
 
